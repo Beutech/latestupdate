@@ -1,0 +1,164 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(245, 233, 235);
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 30vw;
+    height: 8vh;
+    margin-top: 30px;
+   padding-left: 50px;
+}
+.W{
+    color: black;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+.homemain{
+    font-size: 12px;
+    color: grey;
+    margin-left:20vw;
+    margin-top: 10px;
+}
+.home{
+    font-size: 12px;
+    color: grey;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.firstdiv{
+width: 50vw;
+height: 65vh;
+background-color: white;
+padding: 20px;
+margin: 100px;
+}
+.secondiv{
+    width: 65vw;
+    height: 70vh;
+}
+.boxone{
+    width: 70vw;
+    height: 40vh;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: row;
+}
+.new{
+    height: 35vh;
+    width: 11vw;
+    background-color: black;
+    margin-left: 25px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    padding-top: 15px;
+}
+b{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(255, 187, 0);
+}
+.hydrogen{
+    color: white;
+    font-size: 13px;
+    font-weight: 700;
+    margin-top:15px;
+
+}
+.note{
+    color: rgb(175, 171, 171);
+    font-size: 7px;
+    font-weight: 700;
+    margin-top:7px;
+}
+.line{
+    height: 0.1vh;
+    width: 10vw;
+    background-color:rgb(175, 171, 171) ;
+    margin-top:15px;
+}
+.bright{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    width: 25vw;
+    height: 8vh;
+}
+.thebright{
+    font-size: 28px;
+    font-weight: 900;
+    color: black;
+    width: 15vw;
+}
+.dive{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    width: 25vw;
+}
+.wedive{
+    font-size: 12px;
+    color: black;
+    margin-top: 5px;
+}
+.readmore{
+    font-size: 15px;
+    color: white;
+    background-color: red;
+    width: 6vw;
+    height: 10vh;
+    margin-top: 9px;
+}
+.thirddiv{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2px;
+    width: 50vw;
+    height: 5vh;
+}
+.firstrows{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    width: 12vw;
+    margin-left: 52px;
+}
+.firstrow{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    width: 12vw;
+    margin-left: 15px;
+}
+.letters{
+    display: flex;
+    flex-direction: column;
+    width: 25vh;
+    height: 10vh;
+    margin-left: 10px;
+ 
+}
+.firstletter{
+    font-size: 20px;
+    font-weight: 700;
+    color: rgb(210, 199, 199);
+  
+}
+.secondletter{
+    font-size: 13px;
+    font-weight: 900;
+    color:black;
+    margin-top: 3px;
+    
+}
+.thirdletter{
+    font-size:7px;
+    color:rgb(172, 160, 160);
+    margin-top: 6px;
+}
